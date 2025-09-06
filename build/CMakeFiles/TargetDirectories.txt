@@ -1,0 +1,3 @@
+D:/OneDrive/C/C/count/build/CMakeFiles/count.dir
+D:/OneDrive/C/C/count/build/CMakeFiles/edit_cache.dir
+D:/OneDrive/C/C/count/build/CMakeFiles/rebuild_cache.dir

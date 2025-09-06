@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/OneDrive/C/C/count/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -g -o CMakeFiles\\count.dir\\main.c.obj -c D:\\OneDrive\\C\\C\\count\\main.c",
+  "file": "D:\\OneDrive\\C\\C\\count\\main.c",
+  "output": "CMakeFiles\\count.dir\\main.c.obj"
+},
+{
+  "directory": "D:/OneDrive/C/C/count/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -g -o CMakeFiles\\count.dir\\main1.c.obj -c D:\\OneDrive\\C\\C\\count\\main1.c",
+  "file": "D:\\OneDrive\\C\\C\\count\\main1.c",
+  "output": "CMakeFiles\\count.dir\\main1.c.obj"
+},
+{
+  "directory": "D:/OneDrive/C/C/count/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -g -o CMakeFiles\\count.dir\\counnt.c.obj -c D:\\OneDrive\\C\\C\\count\\counnt.c",
+  "file": "D:\\OneDrive\\C\\C\\count\\counnt.c",
+  "output": "CMakeFiles\\count.dir\\counnt.c.obj"
+}
+]
