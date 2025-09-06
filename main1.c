@@ -4,6 +4,9 @@
 #include "stdio.h"
 #include "count.h"
 
+
+//66666
+
 int array[] = {0,1,2,3,4,5,6,7,8,9};
 int main1()
 {
